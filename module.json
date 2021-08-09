@@ -2,7 +2,7 @@
     "main": "github",
     "description": "A Simple Module for fetching GitHub Data",
     "api_token": "github/api_token",
-    "author": "Jonas Napierski",
+    "author": "Zirkumflex Lab",
     "examples": [
         "erstell mir ein projekt",
         "liste mir meine projekte auf"
